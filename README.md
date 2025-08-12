@@ -40,7 +40,7 @@ Un sistema completo y profesional para gestionar notificaciones push con **Fireb
 ### **2. Instalación**
 ```bash
 # Clonar proyecto
-git clone https://github.com/tu-usuario/servidor-push.git
+git clone git@github.com:R0th3k/servidor-push.git
 cd servidor-push
 
 # Crear base de datos

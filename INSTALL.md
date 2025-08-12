@@ -12,7 +12,7 @@
 ### 1️⃣ **Clonar/Descargar el proyecto**
 ```bash
 # Si usas Git
-git clone https://github.com/tu-usuario/servidor-push.git
+git clone git@github.com:R0th3k/servidor-push.git
 cd servidor-push
 
 # O descarga y extrae el ZIP
